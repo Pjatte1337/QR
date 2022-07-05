@@ -1,21 +1,19 @@
 <div>
-  <h1> Portfolio Page </h1>
-  <p> Portfolio @ Noroff School of technology and digital media </p>
+  <h1> QR Code Generator </h1>
+  <p> Made my own QR Code Generator </p>
  </div>
  
  ---
 
 <div>
-  <img src="https://github.com/Pjatte1337/Portfolio-1/blob/main/img/portfolio.png"width="1200" height="400"/> </img>
+  <img src="https://github.com/Pjatte1337/QR/blob/main/QRGenerator.png"width="1200" height="400"/> </img>
 </div>
 
  ---
  
 ### Description
 <p>
-  After the first year of Noroff School of technology and digital media, I needed to make a portfolio website for myself.
-  The requirement was to show three project that I have worked on the last year. 
-  I did work alone on this project so I did everything from CSS,HMTL and Javascript. 
+I made my own QR Code Generator on my sparetime just to test it out. 
 </p>
 
  ---
@@ -31,14 +29,12 @@
 
 ### Design Tools
 <p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-line.svg" title="XD" alt="XD" width="40" height="40"/>&nbsp;
 </p>
 
 ---
 
 ### Link to page
 <div>
-  <a href="https://joakim-portfolio.netlify.app/"> Joakim's Portfolio </a>
 </div>
 
 ---
