@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #ececec;
+    background: rgba(85, 81, 81, 0.721);
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     align-items: center;
@@ -15,11 +15,11 @@ body {
 
 .container {
     padding: 40px 60px;
-    background: #fff;
+    background:#fff;
     display: flex;
     align-items: center;
-    border: 6px solid rgba(190, 190, 190, 0);
-    box-shadow: 0 0 15px rgba(100, 100, 100, 0.3);
+    border: 6px solid rgba(246, 243, 243, 0);
+    box-shadow: 0 0 15px rgba(134, 129, 129, 0.582);
     flex-direction: column;
 }
 
@@ -33,7 +33,7 @@ button {
     padding: 12px 20px;
     margin-bottom: 20px;
     border: 0;
-    background: #485648;
+    background: #15a315;
     color: #fff;
     text-transform: uppercase;
     font-weight: 700;
