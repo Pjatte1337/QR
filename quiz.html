@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <button class="start-quiz-btn">Start quiz</button>
+    <div class="quiz-container">
+        <div class="top-bar">
+            <div class="question-counter">
+                <!-- insert top bar question-->
+            </div>
+            <div class="timer">
+                <span><i class="fa-regular fa-clock"></i></span>
+                <span class="time-left">15</span>
+            </div>
+            <div class="time_line"></div>
+        </div>
+
+        <div class="ques-text">
+            <!--Insert Q here -->
+        </div>
+
+        <div class="option-div">
+            <!-- insert option here-->
+        </div>
+
+        <button class="next-ques-btn click-disable">Next Question</button>
+    </div>
+
+    <div class="result-div">
+        <i class="fa-solid fa-crown"></i>
+        <span> You've completed quiz</span>
+        <div class="score">
+        <!--insert score here-->
+        </div>
+        <button class="replay-quiz-btn" onclick="location.reload()"> Play Again</button>
+
+    </div>
+</body>
+<script src="question.js"></script>
+</html>
